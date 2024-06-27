@@ -1,0 +1,14 @@
+body {
+  background-color: #000;
+}
+
+td img {
+  border: solid 2px #fff;
+}
+
+section {
+  margin-left: 8%;
+}
+table {
+  border-spacing: 16px;
+}
